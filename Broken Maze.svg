@@ -46,46 +46,29 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2"
-     inkscape:cx="109.75"
-     inkscape:cy="178.25"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="85.206367"
+     inkscape:cy="143.18912"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
-  <rect
-     width="336.91"
-     height="337.67"
-     x="5.08"
-     y="5.78"
-     stroke="#000"
-     stroke-width="2"
-     id="rect1" />
-  <ellipse
-     cx="311.89999"
-     cy="34.510002"
-     stroke="#000000"
-     stroke-width="2"
-     rx="15.9"
-     ry="15.51"
-     id="ellipse1"
-     inkscape:label="ellipse1"
-     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Maze"
      style="fill:none">
     <rect
-       style="fill:#545454;fill-opacity:1;stroke:#000000;stroke-width:3.00969;stroke-linejoin:round;stroke-dasharray:none"
+       style="fill:#878787;fill-opacity:1;stroke:#000000;stroke-width:9.79795;stroke-linejoin:round;stroke-dasharray:none"
        id="rect4"
-       width="236.99031"
-       height="236.99031"
-       x="55.504845"
-       y="55.504845"
-       inkscape:label="rectoutline" />
+       width="232.20203"
+       height="232.20203"
+       x="57.898983"
+       y="57.898983"
+       inkscape:label="rectoutline"
+       ry="30.957233" />
     <g
        id="g5"
        style="fill:none"
@@ -101,10 +84,10 @@
          inkscape:label="You" />
       <path
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.30476;stroke-linejoin:round;stroke-dasharray:none"
-         d="m 193.43916,177.24945 19.33574,31.7 -33.19022,-13.29642 z"
+         d="m 186.63005,194.74668 16.7997,9.78844 -20.93146,10.55968 z"
          id="path18"
          inkscape:label="Goal"
-         transform="translate(-3.5762787e-7,11.899586)" />
+         sodipodi:nodetypes="cccc" />
       <g
          id="g4-0"
          style="fill:none"
@@ -445,40 +428,88 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Broken Maze">
+      <g
+         id="g31"
+         transform="translate(-2.949635,1)"
+         style="fill:none"
+         inkscape:label="hazel">
+        <path
+           d="m 164.61523,137.09375 -3.85742,3.49023 h 55.26367 v -3.49023 z"
+           style="fill:#000000;stroke-width:3;stroke-linejoin:bevel"
+           id="path31" />
+        <path
+           d="m 152.37109,140.58398 3.90625,-3.49023 h -15.16406 v 3.49023 z"
+           style="fill:#000000;stroke-width:3;stroke-linejoin:bevel"
+           id="path30" />
+      </g>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect32"
+         width="3.3587573"
+         height="36.239223"
+         x="172.1805"
+         y="70.887451"
+         ry="0" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect33"
+         width="36.010715"
+         height="2.8284247"
+         x="174"
+         y="104.29825"
+         ry="0" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect34"
+         width="73.804276"
+         height="2.5999146"
+         x="102.44209"
+         y="174"
+         ry="0" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect36"
+         width="146.3685"
+         height="3.09358"
+         x="101.02788"
+         y="246.95705"
+         ry="0" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+         id="rect35"
+         width="3.1690216"
+         height="72.342041"
+         x="138.5175"
+         y="174.61501"
+         ry="0" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 103.5,174.61501 h 70.035"
-         id="path19" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.23549;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 174,70.5 v 35.76695"
-         id="path20" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 174.832,104.76695 h 37.5"
-         id="path21" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#535353;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#878787;stroke-width:2;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 140.5625,170.26645 -2.045,4.34856 -10.3925,-1.5 5.791,5.63499"
          id="path22" />
       <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="M 245.89638,138.59293 V 248.19448"
-         id="path23" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="m 138.5175,208.77328 v 38.18376"
-         id="path24" />
-      <path
-         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-         d="M 103.5,246.95704 H 211.07137"
-         id="path25" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#535353;stroke-width:2.61981;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;fill-opacity:1;stroke:#878787;stroke-width:2.61981;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 144.47551,235.74835 -2.045,7.46148 -10.3925,-2.57378 5.791,9.66881"
          id="path22-3" />
     </g>
   </g>
+  <rect
+     width="336.91"
+     height="337.67"
+     x="5.08"
+     y="5.78"
+     stroke="#000"
+     stroke-width="2"
+     id="rect1" />
+  <ellipse
+     cx="311.89999"
+     cy="34.510002"
+     stroke="#000000"
+     stroke-width="2"
+     rx="15.9"
+     ry="15.51"
+     id="ellipse1"
+     inkscape:label="ellipse1"
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
